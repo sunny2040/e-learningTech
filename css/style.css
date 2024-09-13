@@ -560,3 +560,16 @@
     padding-right: 0;
     border-right: none;
 }
+
+/* Buy Me a Coffee Button Styling */
+.buy-me-a-coffee {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.buy-me-a-coffee img {
+    width: 150px;
+    height: auto;
+}
