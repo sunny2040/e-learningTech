@@ -53,6 +53,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-## License
-
 This project is licensed under the [MIT License](./LICENSE).
